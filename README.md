@@ -70,3 +70,4 @@ Once the application is running, you can access it at:
 * **username:** admin
 * **password:** admin
 
+  > You can find the postman collection here: [Brokerage.postman_collection.json](https://github.com/user-attachments/files/19274277/Brokerage.postman_collection.json)
